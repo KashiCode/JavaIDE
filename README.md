@@ -1,6 +1,6 @@
 # JavaIDE
 
-![Java Logo](JAVA logo2.jpg)
+![Java Logo](JAVA%20logo2.jpg)
 
 
 
