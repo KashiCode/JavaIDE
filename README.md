@@ -37,7 +37,7 @@ After installing Node.js and JDK:
    ```
 
 ## 4. Create a New Discord Bot:
-- Visit the Discord Developer Portal [Discord Developers]([https://www.oracle.com/java/technologies/javase-jdk15-downloads.html](https://discord.com/developers/applications)) and create a new application and bot.
+- Visit the Discord Developer Portal [Discord Developers]([(https://discord.com/developers/applications) and create a new application and bot.
 - Invite the bot to your server.
 
 
