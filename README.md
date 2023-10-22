@@ -36,24 +36,24 @@ After installing Node.js and JDK:
    npm install openai
    ```
 
-##4. Create a New Discord Bot:
+## 4. Create a New Discord Bot:
 - Visit the Discord Developer Portal: Discord Developers and create a new application and bot. 
 
-##5. Inviting the Bot to a Server:
+## 5. Inviting the Bot to a Server:
 - invite the bot to your server.
 
-##6.Add your bot tokens:
+## 6.Add your bot tokens:
 
 - add all relevant tokens into the .env file. 
 
-##7. Registering Commands:
+## 7. Registering Commands:
 In your terminal/command prompt type and run:
 
 ```bash
 node src/register-commands.js
 ```
 
-##8. Running the Program:
+## 8. Running the Program:
 Start the bot with:
 
 ```bash
