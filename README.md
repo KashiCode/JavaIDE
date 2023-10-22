@@ -7,7 +7,7 @@
 
 ## Introduction
 
-The JavaIDE Bot serves as a tool on Discord to help users debug, elucidate, and run Java code. It harnesses the capabilities of the Java Runtime Environment and is enhanced by OpenAI integration. The bot's foundation is constructed using JavaScript, Node.js, and discord.js.
+
 
 ## Installation
 
@@ -22,7 +22,8 @@ The JavaIDE Bot serves as a tool on Discord to help users debug, elucidate, and 
 - Download the JDK version 17.0.8 for your operating system.
 
  ## 3. Install Visual Studio Code:
-- Install visual studio code and visual studio build tools.
+- Install [Visual Studio Code.](https://code.visualstudio.com/).
+- Install [Build tools for Visual Studio 2022](https://visualstudio.microsoft.com/downloads/?q=build+tools).
 - Right-click on your project folder and select 'Open with Visual Studio Code', or navigate to your project directory in terminal/command prompt and type `code .` to open it in VSCode.
 
 ## 4. Installing Dependencies:
