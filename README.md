@@ -21,12 +21,13 @@ The JavaIDE Bot serves as a tool on Discord to help users debug, elucidate, and 
 - Visit the official Oracle website: [Oracle JDK Downloads](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html).
 - Download the JDK version 17.0.8 for your operating system.
 
-## 3. Installing Dependencies:
+ ## 3. Install Visual Studio Code:
+- Install visual studio code and visual studio build tools.
+- Right-click on your project folder and select 'Open with Visual Studio Code', or navigate to your project directory in terminal/command prompt and type `code .` to open it in VSCode.
 
-After installing Node.js and JDK:
+## 4. Installing Dependencies:
 
-1. Open the terminal/command prompt.
-2. Navigate to your project directory.
+1. Open the terminal in vscode.
 3. Install the required dependencies:
 
    ```bash
@@ -36,29 +37,28 @@ After installing Node.js and JDK:
    npm install openai
    ```
 
-## 4. Create a New Discord Bot:
+## 5. Create a New Discord Bot:
 - Visit the Discord [developer portal](https://discord.com/developers/applications) and create a new application and bot.
 - Invite the bot to your server.
 
 
-## 5. Add your bot tokens:
+## 6. Add your bot tokens:
 
-- add all relevant tokens into the .env file. 
+- Inside VSCode, open the `.env` file and add all relevant tokens.
 
-## 6. Registering Commands:
-In your terminal/command prompt type and run:
+## 7. Registering Commands:
 
-```bash
-node src/register-commands.js
-```
+- In your VSCode terminal, type and run:
+     ```bash
+     node src/register-commands.js
+     ```
 
-## 7. Running the Program:
-Start the bot with:
+## 8. Running the Program:
 
-```bash
-nodemon
-```
-
+- Start the bot within the VSCode terminal with:
+     ```bash
+     nodemon
+     ```
 
 ## Dependencies
 
