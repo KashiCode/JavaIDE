@@ -1,6 +1,6 @@
 # JavaIDE
 
-<img src="JavaIDE.png" alt="Image Alt Text" width="400" height="400">
+<img src="JavaIDE.png" alt="Image Alt Text" width="500" height="500">
 
 
 
