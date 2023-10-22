@@ -41,7 +41,6 @@ After installing Node.js and JDK:
 - Invite the bot to your server.
 
 
-
 ## 5. Add your bot tokens:
 
 - add all relevant tokens into the .env file. 
