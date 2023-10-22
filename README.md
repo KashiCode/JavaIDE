@@ -42,18 +42,18 @@ After installing Node.js and JDK:
 
 
 
-## 6.Add your bot tokens:
+## 5. Add your bot tokens:
 
 - add all relevant tokens into the .env file. 
 
-## 7. Registering Commands:
+## 6. Registering Commands:
 In your terminal/command prompt type and run:
 
 ```bash
 node src/register-commands.js
 ```
 
-## 8. Running the Program:
+## 7. Running the Program:
 Start the bot with:
 
 ```bash
