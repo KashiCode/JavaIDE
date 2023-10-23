@@ -1,5 +1,5 @@
 # JavaIDE
-![Java Logo](https://github.com/KashiCode/JavaIDE/blob/main/JAVA%20logo2.jpg?raw=true)
+![Java Logo](https://raw.githubusercontent.com/KashiCode/JavaIDE/main/Java%20IDE.png?token=GHSAT0AAAAAACI5YQ2ABLKHKMMLSRC2TAKSZJWZXVA)
 
 
 
