@@ -1,6 +1,6 @@
 # JavaIDE
+![Java Logo](https://github.com/KashiCode/JavaIDE/blob/main/JAVA%20logo2.jpg?raw=true)
 
-![Java Logo](JAVA%20logo2.jpg)
 
 
 
