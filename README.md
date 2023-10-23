@@ -7,6 +7,13 @@
 
 ## Introduction
 
+## Features:
+
+- compiling java files in discord
+- Accepts user inputs
+
+- includes general features such as openAI support for debugging code and basic tutorials on installing java and using the application. 
+
 
 
 ## Installation
