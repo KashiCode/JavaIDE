@@ -2,33 +2,31 @@
 
 # JavaIDE
 
-# 🔍 Introduction
+# Introduction
 JavaIDE is a Discord bot developed using [Node.js](https://nodejs.org/) and [Discord.js](https://discord.js.org/). Serving as a proof of concept, this application redefines the boundaries of Discord bot functionalities by allowing users to execute Java files directly within Discord.
 
 # 🌐 Features
 
-### Core Feature
+### Core Features
 - **Java File Execution:** Simply upload a `.java` file to discord, and our bot will allow you to interact with it and view the final output.
 
 ![How to use java IDE](https://i.imgur.com/st7RpMw.gif)
 
-  
+- **OpenAI support:** Simply use the `/explain` or `/debug` commands in order to use the inbuilt artificial intelligence model to solve your code queries in Discord.
 
-### Current Features
-- **OpenAI Support:** Descriptive debugging and code explanation using OpenAI.
-- **Multiple Function Execution:** Execute code with various functions and different code lengths.
-- **User Input Support:** Accepts simple user inputs into the system.
-- **Diverse Input Data Types:** Including boolean, strings, and more.
-- **Data Structures:** Supports arrays, abstract data types (ADT), and records.
-- **Import Statements:** Compatibility with most import statements.
-- **General Features:** Includes basic tutorials on installing Java and using the application.
+![How to use OpenAI]()
+
+- **Guides and information:** Simply use the `/about`, `/execute` or `/java` commands to get helpful information and guides built into the program.
+
+![How to use guides]() 
+
 
 ### Upcoming Features
 - **Language Expansion:** Integration and support for Python and other programming languages.
 - **Graphical Interface Support:** Enabling the bot to work with GUIs.
 - **External Dependencies:** Expanding the scope to include more external dependencies.
 - **IDE integration:** Enabling users to edit `.java` files within discord and delete or write code.
-- **Sandboxing and security** Expanding on the security features to include a sandbox environment and additional precautions. 
+- **Sandboxing and security** Expanding on the security features to include a sandbox environment. 
 
 # 📌 Usage:
 
