@@ -8,7 +8,9 @@ JavaIDE is a discord bot built using node.js and the discord.js. The application
 ## 🌐 Features
 
 ### Core Feature
-- **Java File Execution:** Simply upload a `.java` file to discord, and our bot will allow you to interact with it and view the final output. 
+- **Java File Execution:** Simply upload a `.java` file to discord, and our bot will allow you to interact with it and view the final output.
+
+  
 
 ### Current Features
 - **OpenAI Support:** Descriptive debugging and code explanation using OpenAI.
@@ -78,37 +80,29 @@ JavaIDE is a discord bot built using node.js and the discord.js. The application
      nodemon
      ```
 
-## Dependencies
+# ⚙ Dependencies
+- Node.js (Version v18.18.2 or newer)
+- Axios
+- Discord.js
+- Dotenv
+- OpenAI
+- Java (At least JDK 17.0.8)
 
-- **Node.js**
-  > This project requires node v18.18.2 or later.
+# 📝 Contributing
+Your contributions are always welcome. For major revisions, please start by opening an issue to discuss what you'd like to change.
 
-- **Axios**
-  > Install using `npm install axios`.
+# 📜 License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-- **Discord.js**
-  > Install using `npm install discord.js`.
+# 💼 Contact
+For any inquiries, suggestions, or feedback, don't hesitate to email me at [ostrynskimaks@gmail.com](mailto:ostrynskimaks@gmail.com).
 
-- **Dotenv**
-  > Install using `npm install dotenv`.
+Note: There are some restrictions with JavaIDE Bot due to Discord's limitations. For instance, it doesn't support:
+- Files that need an input or output over 2000 characters.
+- Multiple dependencies that aren't part of the JDK.
+- Code that uses a GUI.
 
-- **OpenAI**
-  > Install using `npm install openai`.
-
-- **Java**
-  > This project requires Java 17.0.8 or later.
-
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-[MIT](https://opensource.org/licenses/MIT)
-
-## Contact
-If you have any questions or comments, please feel free to contact me at ostrynskimaks@gmail.com
-
-
+We encourage suggestions for improvements and new features!
 
 ###### KashiCode © 2023
 
