@@ -23,7 +23,7 @@ JavaIDE is a Discord bot developed using [Node.js](https://nodejs.org/) and [Dis
 **Simply use the `/about`, `/execute` or `/java` commands**, to get helpful information and guides built into the program.
 
 
-![How to view guides](https://i.imgur.com/OnvLDVg.mp4) 
+![How to view guides](https://i.imgur.com/OnvLDVg.mp4](https://i.imgur.com/lL0IVaO.gif) 
 
 
 ### Upcoming Features
