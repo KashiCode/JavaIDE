@@ -1,21 +1,21 @@
 ![Java Logo](https://i.imgur.com/D1Qwyww.png)
 
-# JavaIDE Bot v1.1.0
-Welcome to JavaIDE Bot, a dedicated utility designed to revolutionize the way developers interact with Java on Discord.
+# 🌟JavaIDE v1.1.0
+Welcome to JavaIDE Bot, a 
 
-## 🌟 Main Goal
-Our primary goal is to seamlessly run Java files right within Discord. How does it work? Simply upload a `.java` file, and our bot will allow you to interact with it, mimicking an IDE environment.
+
+seamlessly run Java files right within Discord. How does it work? Simply upload a `.java` file, and our bot will allow you to interact with it, mimicking an IDE environment.
 
 ## 🔍 Introduction
-JavaIDE Bot is a proof of concept, emphasizing the power of integration and the vast possibilities with bot functionalities in platforms like Discord. With the assistance of Java Runtime Environment and the prowess of OpenAI, our bot aims to aid users in understanding code issues, executing simple Java programs, and more.
+JavaIDE is a discord bot built using node.js and the discord.js. The application is a proof of concept that aims to push the limits of discord bot applications by allowing users to run Java files right within Discord.
 
 ## 🌐 Features
 
 ### Core Feature
-- **Java File Execution:** Upload and interact with `.java` files directly in Discord.
+- **Java File Execution:** Simply upload a `.java` file to discord, and our bot will allow you to interact with it and view the final output. 
 
 ### Current Features
-- **OpenAI Support:** Descriptive debugging and code explanation using the advanced capabilities of OpenAI.
+- **OpenAI Support:** Descriptive debugging and code explanation using OpenAI.
 - **Multiple Function Execution:** Execute code with various functions and different code lengths.
 - **User Input Support:** Accepts simple user inputs into the system.
 - **Diverse Input Data Types:** Including boolean, strings, and more.
@@ -27,6 +27,8 @@ JavaIDE Bot is a proof of concept, emphasizing the power of integration and the 
 - **Language Expansion:** Integration and support for Python and other programming languages.
 - **Graphical Interface Support:** Enabling the bot to work with GUIs.
 - **External Dependencies:** Expanding the scope to include more external dependencies.
+- **IDE integration:** Enabling users to edit `.java` files within discord and delete or write code.
+- **Sandboxing and security** Expanding on the security features to include a sandbox environment and additional precautions. 
 
 ## 📌 Usage:
 
