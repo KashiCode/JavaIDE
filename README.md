@@ -40,12 +40,12 @@ JavaIDE is a Discord bot developed using [Node.js](https://nodejs.org/) and [Dis
 - Visit the official Node.js website: [Node.js](https://nodejs.org/) and install version v18.18.2.
 -  Make sure to include `npm` (Node Package Manager) in the installation.
 
-### 2. Installing the Java Development Kit (JDK):
+### 2. Installing the Java Development Kit:
 
 - Visit the official Oracle website: [Oracle JDK Downloads](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html).
 - Download the JDK version 17.0.8 for your operating system.
 
-### 3. Install Visual Studio Code:
+### 3. Installing Visual Studio Code:
 - Install [Visual Studio Code.](https://code.visualstudio.com/).
 - Install [Build tools for Visual Studio 2022](https://visualstudio.microsoft.com/downloads/?q=build+tools).
 - Right-click on your project folder and select 'Open with Visual Studio Code', or navigate to your project directory in terminal/command prompt and type `code .` to open it in VSCode.
@@ -62,12 +62,12 @@ JavaIDE is a Discord bot developed using [Node.js](https://nodejs.org/) and [Dis
    npm install openai
    ```
 
-### 5. Create a New Discord Bot:
+### 5. Creating a New Discord Bot:
 - Visit the Discord [developer portal](https://discord.com/developers/applications) and create a new application and bot.
 - Invite the bot to your server.
 
 
-### 6. Add your bot tokens:
+### 6. Adding your bots tokens:
 
 - Inside VSCode, open the `.env` file and add all relevant tokens.
 
@@ -78,7 +78,7 @@ JavaIDE is a Discord bot developed using [Node.js](https://nodejs.org/) and [Dis
      node src/register-commands.js
      ```
 
-### 8. Running the Program:
+### 8. Running the application:
 
 - Start the bot within the VSCode terminal with:
      ```bash
