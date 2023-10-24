@@ -101,12 +101,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 # 💼 Contact
 For any inquiries, suggestions, or feedback, don't hesitate to email me at [ostrynskimaks@gmail.com](mailto:ostrynskimaks@gmail.com).
-
-Note: There are some restrictions with JavaIDE Bot due to Discord's limitations. For instance, it doesn't support:
-- Files that need an input or output over 2000 characters.
-- Multiple dependencies that aren't part of the JDK.
-- Code that uses a GUI.
-
 We encourage suggestions for improvements and new features!
 
 ###### KashiCode © 2023
