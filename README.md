@@ -1,5 +1,5 @@
 # JavaIDE
-![Java Logo]([https://i.imgur.com/WO7iL6D.png](https://i.imgur.com/D1Qwyww.png))
+![Java Logo](https://i.imgur.com/D1Qwyww.png)
 
 
 
