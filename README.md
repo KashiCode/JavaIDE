@@ -74,6 +74,7 @@ JavaIDE is a Discord bot developed using [Node.js](https://nodejs.org/) and [Dis
 ### 7. Registering Commands:
 
 - In your VSCode terminal, type and run:
+- 
      ```bash
      node src/register-commands.js
      ```
@@ -81,6 +82,7 @@ JavaIDE is a Discord bot developed using [Node.js](https://nodejs.org/) and [Dis
 ### 8. Running the application:
 
 - Start the bot within the VSCode terminal with:
+- 
      ```bash
      nodemon
      ```
