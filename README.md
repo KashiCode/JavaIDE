@@ -30,22 +30,22 @@ JavaIDE is a discord bot built using node.js and the discord.js. The application
 
 ## 📌 Usage:
 
-## 1. Installing Node.js:
+### 1. Installing Node.js:
 
 - Visit the official Node.js website: [Node.js](https://nodejs.org/) and install version v18.18.2.
 -  Make sure to include `npm` (Node Package Manager) in the installation.
 
-## 2. Installing the Java Development Kit (JDK):
+### 2. Installing the Java Development Kit (JDK):
 
 - Visit the official Oracle website: [Oracle JDK Downloads](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html).
 - Download the JDK version 17.0.8 for your operating system.
 
- ## 3. Install Visual Studio Code:
+### 3. Install Visual Studio Code:
 - Install [Visual Studio Code.](https://code.visualstudio.com/).
 - Install [Build tools for Visual Studio 2022](https://visualstudio.microsoft.com/downloads/?q=build+tools).
 - Right-click on your project folder and select 'Open with Visual Studio Code', or navigate to your project directory in terminal/command prompt and type `code .` to open it in VSCode.
 
-## 4. Installing Dependencies:
+### 4. Installing Dependencies:
 
 1. Open the terminal in vscode.
 3. Install the required dependencies:
@@ -57,23 +57,23 @@ JavaIDE is a discord bot built using node.js and the discord.js. The application
    npm install openai
    ```
 
-## 5. Create a New Discord Bot:
+### 5. Create a New Discord Bot:
 - Visit the Discord [developer portal](https://discord.com/developers/applications) and create a new application and bot.
 - Invite the bot to your server.
 
 
-## 6. Add your bot tokens:
+### 6. Add your bot tokens:
 
 - Inside VSCode, open the `.env` file and add all relevant tokens.
 
-## 7. Registering Commands:
+### 7. Registering Commands:
 
 - In your VSCode terminal, type and run:
      ```bash
      node src/register-commands.js
      ```
 
-## 8. Running the Program:
+### 8. Running the Program:
 
 - Start the bot within the VSCode terminal with:
      ```bash
