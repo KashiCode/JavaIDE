@@ -2,8 +2,8 @@
 
 # JavaIDE
 
-## 🔍 Introduction
-JavaIDE is a discord bot built using node.js and the discord.js. The application is a proof of concept that aims to push the limits of discord bot applications by allowing users to run Java files right within Discord.
+#🔍 Introduction
+JavaIDE is a Discord bot developed using [Node.js](https://nodejs.org/) and [Discord.js](https://discord.js.org/). Serving as a compelling proof of concept, this application strives to redefine the boundaries of Discord bot functionalities by empowering users to execute Java files directly within Discord.
 
 # 🌐 Features
 
