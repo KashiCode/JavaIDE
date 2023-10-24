@@ -1,10 +1,6 @@
 ![Java Logo](https://i.imgur.com/D1Qwyww.png)
 
 # 🌟JavaIDE v1.1.0
-Welcome to JavaIDE Bot, a 
-
-
-seamlessly run Java files right within Discord. How does it work? Simply upload a `.java` file, and our bot will allow you to interact with it, mimicking an IDE environment.
 
 ## 🔍 Introduction
 JavaIDE is a discord bot built using node.js and the discord.js. The application is a proof of concept that aims to push the limits of discord bot applications by allowing users to run Java files right within Discord.
