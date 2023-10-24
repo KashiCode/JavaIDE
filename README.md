@@ -9,6 +9,7 @@ JavaIDE is a Discord bot developed using [Node.js](https://nodejs.org/) and [Dis
 
 ### Core Feature
 - **Java File Execution:** Simply upload a `.java` file to discord, and our bot will allow you to interact with it and view the final output.
+![Description](https://i.imgur.com/st7RpMw.gif)
 
   
 
