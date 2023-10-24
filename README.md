@@ -52,8 +52,8 @@ JavaIDE is a Discord bot developed using [Node.js](https://nodejs.org/) and [Dis
 
 ### 4. Installing Dependencies:
 
-1. Open the terminal in vscode.
-3. Install the required dependencies:
+- Open the terminal in vscode.
+- Install the required dependencies:
 
    ```bash
    npm install axios
