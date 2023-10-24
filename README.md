@@ -1,22 +1,34 @@
-
 ![Java Logo](https://i.imgur.com/D1Qwyww.png)
 
+# JavaIDE Bot v1.1.0
+Welcome to JavaIDE Bot, a dedicated utility designed to revolutionize the way developers interact with Java on Discord.
 
+## 🌟 Main Goal
+Our primary goal is to seamlessly run Java files right within Discord. How does it work? Simply upload a `.java` file, and our bot will allow you to interact with it, mimicking an IDE environment.
 
+## 🔍 Introduction
+JavaIDE Bot is a proof of concept, emphasizing the power of integration and the vast possibilities with bot functionalities in platforms like Discord. With the assistance of Java Runtime Environment and the prowess of OpenAI, our bot aims to aid users in understanding code issues, executing simple Java programs, and more.
 
+## 🌐 Features
 
-## Introduction
+### Core Feature
+- **Java File Execution:** Upload and interact with `.java` files directly in Discord.
 
-## Features:
+### Current Features
+- **OpenAI Support:** Descriptive debugging and code explanation using the advanced capabilities of OpenAI.
+- **Multiple Function Execution:** Execute code with various functions and different code lengths.
+- **User Input Support:** Accepts simple user inputs into the system.
+- **Diverse Input Data Types:** Including boolean, strings, and more.
+- **Data Structures:** Supports arrays, abstract data types (ADT), and records.
+- **Import Statements:** Compatibility with most import statements.
+- **General Features:** Includes basic tutorials on installing Java and using the application.
 
-- compiling java files in discord
-- Accepts user inputs
+### Upcoming Features
+- **Language Expansion:** Integration and support for Python and other programming languages.
+- **Graphical Interface Support:** Enabling the bot to work with GUIs.
+- **External Dependencies:** Expanding the scope to include more external dependencies.
 
-- includes general features such as openAI support for debugging code and basic tutorials on installing java and using the application. 
-
-
-
-## Installation
+## 📌 Usage:
 
 ## 1. Installing Node.js:
 
