@@ -11,12 +11,12 @@ JavaIDE is a Discord bot developed using [Node.js](https://nodejs.org/) and [Dis
 **Simply upload a `.java` file to discord**, and our bot will allow you to interact with it and view the final output.
 
 
-![How to use java IDE](https://i.imgur.com/st7RpMw.gif)
+![How to use java IDE]()
 
 ### Java File Editing:
 **Simply upload a `.java` file to discord**, and our bot will allow you to edit it and download the edited version.
 
-![How to use java IDE](https://i.imgur.com/st7RpMw.gif)
+![How to use java IDE]()
 
 ### OpenAI support:
 **Simply use the `/explain` or `/debug` commands**, in order to use the inbuilt artificial intelligence model to solve your code queries.
