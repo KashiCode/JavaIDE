@@ -1,4 +1,3 @@
-
 require('dotenv').config();
 const { REST } = require('@discordjs/rest');
 const { Routes } = require('discord-api-types/v9');
@@ -43,8 +42,8 @@ const commands = [
         type: 1,
     },
     {
-        name:'java',
-        description: 'Information about java.',
+        name:'edit',
+        description: 'Information about editing java code.',
         type: 1,
 
     },
