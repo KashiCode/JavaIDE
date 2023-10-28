@@ -35,8 +35,6 @@ JavaIDE is a Discord bot developed using [Node.js](https://nodejs.org/) and [Dis
 - **Language Expansion:** Integration and support for Python and other programming languages.
 - **Graphical Interface Support:** Enabling the bot to work with GUIs.
 - **External Dependencies:** Expanding the scope to include more external dependencies.
-- **IDE integration:** Enabling users to edit `.java` files within discord and delete or write code.
-- **Sandboxing and security** Expanding on the security features to include a sandbox environment. 
 
 # 📌 Usage
 
