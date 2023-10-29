@@ -22,13 +22,13 @@ JavaIDE is a Discord bot developed using [Node.js](https://nodejs.org/) and [Dis
 **Simply use the `/explain` or `/debug` commands**, in order to use the inbuilt artificial intelligence model to solve your code queries.
 
 
-![How to use OpenAI]()
+![How to use OpenAI](https://i.imgur.com/eylnO76.gif)
 
 ### Guides and information:
 **Simply use the `/about`, `/execute` or `/edit` commands**, to get helpful information and guides built into the program.
 
 
-![How to view guides]()
+![How to view guides](https://i.imgur.com/YrqVxEG.gif)
 
 
 ### 🚀 Upcoming Features:
