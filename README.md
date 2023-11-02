@@ -94,11 +94,11 @@ JavaIDE is a Discord bot developed using [Node.js](https://nodejs.org/) and [Dis
 
 # ⚙ Dependencies
 - Node.js (Version v18.18.2 or newer)
+- Java (At least JDK 17.0.8)
 - Axios
 - Discord.js
 - Dotenv
 - OpenAI
-- Java (At least JDK 17.0.8)
 
 # 📝 Contributing
 Your contributions are always welcome. For major revisions, please start by opening an issue to discuss what you'd like to change.
