@@ -108,7 +108,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 # 💼 Contact
 For any inquiries, suggestions, or feedback, don't hesitate to email me at [ostrynskimaks@gmail.com](mailto:ostrynskimaks@gmail.com).
-We encourage suggestions for improvements and new features!
+
 
 ###### KashiCode © 2023
 
