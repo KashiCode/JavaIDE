@@ -31,52 +31,18 @@ JavaIDE is a Discord bot developed using [Node.js](https://nodejs.org/) and [Dis
 ![How to view guides](https://i.imgur.com/YrqVxEG.gif)
 
 
-### 🚀 Upcoming Features:
-- **Language Expansion:** Integration and support for Python and other programming languages.
-- **Graphical Interface Support:** Enabling the bot to work with GUIs.
-- **External Dependencies:** Expanding the scope to include more external dependencies.
 
-# 📌 Usage
-
-### 1. Installing Node.js
-
-- Visit the official Node.js website: [Node.js](https://nodejs.org/) and install version v18.18.2.
--  Make sure to include `npm` (Node Package Manager) in the installation.
-
-### 2. Installing the Java Development Kit
-
-- Visit the official Oracle website: [Oracle JDK Downloads](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html).
-- Download the JDK version 17.0.8 for your operating system.
-
-### 3. Installing Visual Studio Code
-
-- Install [Visual Studio Code.](https://code.visualstudio.com/).
-- Install [Build tools for Visual Studio 2022](https://visualstudio.microsoft.com/downloads/?q=build+tools).
-- Right-click on your project folder and select 'Open with Visual Studio Code', or navigate to your project directory in terminal/command prompt and type `code .` to open it in VSCode.
-
-### 4. Installing Dependencies
-
-- Open the terminal in vscode.
-- Install the required dependencies:
-
-   ```bash
-   npm install axios
-   npm install discord.js
-   npm install dotenv
-   npm install openai
-   ```
-
-### 5. Creating a New Discord Bot
+### 1. Creating a New Discord Bot
 
 - Visit the Discord [developer portal](https://discord.com/developers/applications) and create a new application and bot.
 - Invite the bot to your server.
 
 
-### 6. Adding your bots tokens
+### 2. Adding your bots tokens
 
 - Inside VSCode, open the `.env` file and add all relevant tokens.
 
-### 7. Registering Commands
+### 3. Registering Commands
 
 - In your VSCode terminal, type and run:
   
@@ -84,7 +50,7 @@ JavaIDE is a Discord bot developed using [Node.js](https://nodejs.org/) and [Dis
      node src/register-commands.js
      ```
 
-### 8. Running the application
+### 4. Running the application
 
 - Start the bot within the VSCode terminal with:
 
